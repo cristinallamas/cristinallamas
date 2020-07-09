@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, is it me you're looking for?
 
 <!--
 **cristinallamas/cristinallamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Cristina Llamas, a Full Snack Developer 🥪👩🏻‍💻. 
+
+Currently focused on React and Jamstack development, but... I've also got a past, I know plenty of Drupal.
+At the moment I'm based in London and working on a project for the British Council.
+
+![](https://cdn.sanity.io/images/2x0521ea/production/276b15afcc34dea5278bd279651b8d12a6ff7e2d-768x1024.jpg?rect=0,74,768,768&w=400&h=400)
