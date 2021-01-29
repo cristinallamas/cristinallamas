@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Cristina Llamas, a Full Snack Developer 🥪👩🏻‍💻. 
 
-Currently focused on React and Jamstack development, but... I've also got a past, I know plenty of Drupal.
+Currently focused on React and Jamstack development, with a background in Drupal.
 At the moment I'm based in London and working on a project for the British Council.
 
 ![](https://cdn.sanity.io/images/2x0521ea/production/276b15afcc34dea5278bd279651b8d12a6ff7e2d-768x1024.jpg?rect=0,74,768,768&w=400&h=400)
